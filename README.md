@@ -1,1 +1,2 @@
 #   HELLO NODE
+git init
